@@ -120,7 +120,7 @@ public class Player {
   public Card[] GetHand() {
     return this.hand;
   }
-  // DEVELOPED BY: AMRIT
+  // DEVELOPED BY: Arshiya
   /*
    * Sets the value.
    * @param value the value to set
@@ -129,7 +129,7 @@ public class Player {
     total += val;
   }
   
-  // DEVELOPED BY: AMRIT
+  // DEVELOPED BY: Arshiya
   /*
    * Returns the value.
    * @return the value
